@@ -1,7 +1,7 @@
 # PCP
 To compile and run :
 
-g++ yz2407.cpp -o pcp
+g++ main.cpp -o pcp
 ./pcp
 
 Input filename MUST be input.txt
