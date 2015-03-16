@@ -40,3 +40,4 @@ Example 3:
 1 ab a
 2 a bac
 3 cab a
+
